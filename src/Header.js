@@ -1,7 +1,7 @@
 import React from 'react';
 import "./header.css"
 
-// const Header = function () {
+const Header = function () {
 //   const headerStyle = {
 //     textAlign: 'center',
 //     padding: 20,
